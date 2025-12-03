@@ -3,8 +3,8 @@
 This is a simple command-line Hospital Management System developed in Java.
 It demonstrates role-based authentication, core Java programming, and several software engineering design patterns for managing patients, doctors, and appointments using file handling for data persistence.
 
-**Current Date:** May 12, 2025
-**author :** Abinash Das
+**Current Date:** Dec 03, 2025
+**author :** Mahir Kachwala
 
 ## Features
 
