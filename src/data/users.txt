@@ -1,0 +1,3 @@
+staff,staff123,STAFF,null
+doctor1,doc123,DOCTOR,DOC-SAMPLE1
+doctor2,doc456,DOCTOR,DOC-SAMPLE2
